@@ -8,9 +8,9 @@ Client=discord.Client()
 client= commands.Bot(command_prefix='!')
 
 #Banned Words
-chat_filter=["FUCK", "F U C K", "FUCKING", "FUC", "F U C K I N G", "SHIT", "SHITING","BITCH", "BITCHING" "SHAT", "ASS", "ASSHOLE", "PUSSY", "BASTARD", "ARSE", "CUNT", "GAY", "NIBBA", "FUC", "GEY","B1CH","TITS","VAGINA","DICK","PENIS","THOT"]
+chat_filter=["words"]
 bypass_list= []
-msg1= "Do not use the following words:F*ck ,sh*t ,b*tch ,shat ,a$$ ,a$$hole ,pu$$y ,b@st@rd ,@rse ,c*nt ,gay ,t*ts ,v*gina ,etc "
+msg1= "words"
 
 ban_filter=["RAID"]
 
